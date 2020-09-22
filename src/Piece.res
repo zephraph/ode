@@ -7,7 +7,7 @@ let team1soldier = [
   `             `,
 ]
 let team1general = [
-  `     ▟▆▙     `,
+  `    ▐▟▅▙▌    `,
   `     ▜◘▛     `,
   `    ▃▞ ▚▃    `,
   `    ▞▚ ▞▚    `,
