@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "_esy": true,
+    "*.lock": true
+  }
+}

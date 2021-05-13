@@ -1,0 +1,4 @@
+(executable
+ (name Ode)
+ (public_name ode)
+ (libraries console.lib lib))
